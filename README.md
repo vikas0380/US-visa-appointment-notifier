@@ -1,5 +1,5 @@
 # US-visa-appointment-notifier
-
+ 
 This is just a script I put together to check and notify me via email ([MailGun](https://www.mailgun.com/)) when there's an earlier date before my initial appointment date. It doesn't handle **rescheduling**. 
 
 
